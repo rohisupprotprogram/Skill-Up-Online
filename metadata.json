@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Skill Up Online E-Learning",
+  "description": "A premium e-learning platform offering professional certification in Web Development, Business Communication, and Sustainability via live weekend sessions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
